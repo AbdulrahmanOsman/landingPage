@@ -54,8 +54,8 @@ body {
       height: 100%;
       width: 100%;
       filter: blur(3px);
-      -webkit-filter: blur(8px);
-      background-image: url("../images/mainPic.jpg"); }
+      -webkit-filter: blur(4px);
+      background-image: url("../images/mainPic.webp"); }
     .header .transprancyBox .menu {
       border-left: 2px solid #fff;
       padding-left: 10px;
